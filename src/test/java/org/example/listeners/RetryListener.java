@@ -1,4 +1,4 @@
 package org.example.listeners;
 
-public class RetryListeners {
+public class RetryListener {
 }

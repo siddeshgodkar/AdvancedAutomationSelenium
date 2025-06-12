@@ -4,7 +4,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/sidde/IdeaProjects/AdvancedAutomationSelenium">
         <classes>
-            <class name="org.example.tests.vwoTestCase.pageObjectModel_TestCase.TestVWOLogin_POM">
+            <class name="org.example.tests.orangeHR.pageObjectModel_TestCase.TestOrangeHR_POM">
             </class>
 
         </classes>
