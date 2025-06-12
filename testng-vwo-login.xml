@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/sidde/IdeaProjects/AdvancedAutomationSelenium">
+        <classes>
+            <class name="org.example.tests.sampleTestCase.TestSelenium">
+                <methods>
+                    <include name="test_vwoLogin"/>
+                </methods>
+            </class>
+            <class name="org.example.tests.vwoTestCase.TestVWOLogin_POM">
+                <methods>
+                    <include name="testLoginNegativeVWO"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
