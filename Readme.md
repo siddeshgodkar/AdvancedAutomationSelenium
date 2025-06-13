@@ -1,6 +1,6 @@
 Selenium Automation Framework(with Java)
 
-* Author - Pramod Dutta
+* Author - Siddesh Godkar
 
 * Java, Selenium, TestNG
 

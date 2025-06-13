@@ -7,11 +7,13 @@
         <listener class-name="org.example.listeners.RetryListener"/>
     </listeners>>
 
+
     <test verbose="2" preserve-order="true" name="C:/Users/sidde/IdeaProjects/AdvancedAutomationSelenium">
         <classes>
-            <class name="org.example.tests.vwoTestCase.pageObjectModel_TestCase.TestVWOLogin_POM">
+            <class name="org.example.tests.vwoTestCase.pageFactory.TestVWOLogin_PF">
             </class>
 
         </classes>
+
     </test>
 </suite>
